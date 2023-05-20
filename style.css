@@ -221,6 +221,11 @@ footer h1{
     letter-spacing: 0.13500000536441803px;
     color: #4C545C    
 }
+.contact h1:hover{
+    cursor: pointer;
+    transition: 0.3s;
+    color: rgba(38, 187, 164, 1);
+}
 .soc-media{
     display: flex;
     flex-direction: row;
@@ -337,11 +342,6 @@ footer h1{
         text-align: left;
         column-gap: 30px;
         row-gap: 12px;
-    }
-    .contact h1:hover{
-        cursor: pointer;
-        transition: 0.3s;
-        color: rgba(38, 187, 164, 1);
     }
     .soc-media{
         margin: auto;
