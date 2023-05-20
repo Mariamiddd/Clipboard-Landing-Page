@@ -100,14 +100,14 @@ body{
     margin: 0 32px 186px 32px;
 }
 .feature-block h1{
-    margin: 0 auto;
+    margin: 0 auto 10px auto;
     font-size: 24px;
     font-weight: 600;
     letter-spacing: -0.3913043141365051px;
     color: #4C545C;
 }
 .feature-block p{
-    margin: 0 auto;
+    margin: 0 auto 48px auto;
     max-width: 30ch;
     font-size: 16px;
     font-weight: 400;
